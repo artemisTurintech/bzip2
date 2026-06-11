@@ -27,3 +27,5 @@ builddir
 *.lib
 *.obj
 *.res
+
+artemis_results.json
